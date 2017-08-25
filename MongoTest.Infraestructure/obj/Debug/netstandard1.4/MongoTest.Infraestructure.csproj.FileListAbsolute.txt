@@ -1,0 +1,7 @@
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/bin/Debug/netstandard1.4/MongoTest.Infraestructure.deps.json
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/bin/Debug/netstandard1.4/MongoTest.Infraestructure.dll
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/bin/Debug/netstandard1.4/MongoTest.Infraestructure.pdb
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/obj/Debug/netstandard1.4/MongoTest.Infraestructure.csproj.CoreCompileInputs.cache
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/obj/Debug/netstandard1.4/MongoTest.Infraestructure.AssemblyInfo.cs
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/obj/Debug/netstandard1.4/MongoTest.Infraestructure.dll
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Infraestructure/obj/Debug/netstandard1.4/MongoTest.Infraestructure.pdb

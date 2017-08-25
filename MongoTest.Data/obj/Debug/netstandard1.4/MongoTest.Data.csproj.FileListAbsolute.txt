@@ -1,0 +1,8 @@
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/bin/Debug/netstandard1.4/MongoTest.Data.deps.json
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/bin/Debug/netstandard1.4/MongoTest.Data.dll
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/bin/Debug/netstandard1.4/MongoTest.Data.pdb
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/obj/Debug/netstandard1.4/MongoTest.Data.csprojResolveAssemblyReference.cache
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/obj/Debug/netstandard1.4/MongoTest.Data.csproj.CoreCompileInputs.cache
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/obj/Debug/netstandard1.4/MongoTest.Data.AssemblyInfo.cs
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/obj/Debug/netstandard1.4/MongoTest.Data.dll
+/Users/carlosmontanomartinez/Projects/MongoTest/MongoTest.Data/obj/Debug/netstandard1.4/MongoTest.Data.pdb
